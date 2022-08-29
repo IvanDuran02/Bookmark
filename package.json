@@ -4,9 +4,8 @@
   "description": "",
   "main": "tailwind.config.js",
   "scripts": {
-    "tailwind": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+    "start": "tailwindcss -i input.css -o ./dist/output.css --watch"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC"
 }
